@@ -6,3 +6,4 @@ class Solution:
             if diff in prev:
                 return [prev[diff],i]
             prev[nums[i]]=i
+            #sample
